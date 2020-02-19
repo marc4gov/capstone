@@ -11,6 +11,6 @@ notebooks for the human race classifiction and data augmentation steps
     Transform - notebook for data augmentation by multiplying images and tweaking them
     __data__ directory datasets and testsets, derived from CelebA dataset
 
-__PDFs__ article and mailexchange requesting Gender shades dataset
+__PDFs__ proposal, project article and mailexchange requesting Gender shades dataset
 
 __dog_app.ipynb__ template dog breed notebook, partly executed 

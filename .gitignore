@@ -1,4 +1,8 @@
 /capstone/data/celebstest
 /capstone/data/celebsorigin
 /capstone/model*.pt
-/project-dog-classification
+/project-dog-classification/model*.pt
+/project-dog-classification/haarcascades/
+/project-dog-classification/dogImages/
+/project-dog-classification/lfw/
+

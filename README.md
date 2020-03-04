@@ -10,9 +10,10 @@ notebooks for the human skintype x gender classification and data augmentation s
     Capstone-Human.html - a HTML page showing the training and testing
     Filter - notebook for filtering skin types and genders from the CelebA dataset
     Transform - notebook for data augmentation by multiplying images and tweaking them
-    __data__ directory - datasets and testsets, derived from CelebA dataset
-    __gendershades__ directory - mailexchange requesting Gender shades dataset
+    data directory - datasets and testsets, derived from CelebA dataset
+    gendershades directory - mailexchange requesting Gender shades dataset
 
 __PDFs__ Capstone proposal, submission and project article 
 
-__dog_app.ipynb__ template dog breed notebook, partly executed 
+__project-dog-classification__ directory
+template dog breed classification notebook, most part executed, before handing over to capstone directory

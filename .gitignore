@@ -1,5 +1,8 @@
 /capstone/data/celebstest
 /capstone/data/celebsorigin
+/capstone/data/celebsaugmented
+/capstone/data/img_align_celeba
+/capstone/data/list*.*
 /capstone/model*.pt
 /project-dog-classification/model*.pt
 /project-dog-classification/haarcascades/
